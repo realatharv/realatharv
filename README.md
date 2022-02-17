@@ -1,4 +1,4 @@
-![banner](https://tenor.com/view/celebrate-shinkoukei-mashiro-dancing-gif-4909808 "banner")
+![banner](https://github.com/realatharv/realatharv/blob/main/celebrate-shinkoukei.gif "banner")
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
