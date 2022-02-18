@@ -1,18 +1,14 @@
-<img src = "https://github.com/realatharv/realatharv/blob/main/coding.gif">
+<h1> Hello Fellow < Developers/ >! <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 50px></h1>    
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=realatharv.realatharv)     <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/popcorn-owo-popcorn-girl.gif">
 <p align='center'>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=realatharv.realatharv)
-
+ 
 </p>
-<div size='20px'> Hi! My name is Atharv. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2> About Me <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/no-sleep.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://github.com/realatharv/realatharv/blob/main/coding.gif" />
 
 
 - 🔭 I’m currently working on [**EthPay**](https://github.com/realatharv/ethpay)
@@ -42,10 +38,14 @@
 
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src="https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/cIe5MvDvX4Vc.gif" data-canonical-src="https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/cIe5MvDvX4Vc.gif" width="30" height="30" /> </h2>
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=realatharv&show_icons=true&locale=en)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realatharv&show_icons=true&locale=en&layout=compact" alt="realatharv" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realatharv&show_icons=true&locale=en" alt="realatharv" /></p>
+
+ 
+ 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
