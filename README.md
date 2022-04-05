@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Solidity , Blockchain development** 
  
-- 📫 How to reach me **contact@realatharv.ga**
+- 📫 How to reach me **atharvwv@outlook.com**
 
 - ⚡ Fun fact **I'm just 16**
 
