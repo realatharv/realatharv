@@ -11,9 +11,9 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/realatharv/realatharv/blob/main/coding.gif" />
 
 
-- 🔭 I’m currently working on [**EthPay**](https://github.com/realatharv/ethpay)
+- 🔭 I’m currently working on [**Portfolio Website**](https://github.com/realatharv/atharv)
 
-- 🌱 I’m currently learning **Solidity , Blockchain development** 
+- 🌱 I’m currently learning **Python, API(s), Blockchain development** 
  
 - 📫 How to reach me **atharvwv@outlook.com**
 
